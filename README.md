@@ -107,9 +107,6 @@ Nuestra API va a centrarse específicamente en los tópicos, y debe permitir a l
 
   <br>
 
-**Desarrollador** :wink: 
-
- <img src="https://avatars.githubusercontent.com/u/129345721?v=4" width=115>
  
  **Francisco Valam Cortes**  <br>[<sub>GitHub</sub>](https://github.com/ValamCA) <img src="https://i.postimg.cc/hPxhb2YB/icons8-github-50.png" width =16>
  <br>[<sub>Linkedin </sub> ](https://www.linkedin.com/in/franciscovalamca/)<img src="https://i.postimg.cc/C5LJHycc/icons8-linkedin-48.png" width =16 ><br>
