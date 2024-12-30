@@ -1,8 +1,6 @@
 # Challenge ONE | Back End | Foro Alura 
 
 
-![Foro_Alura_logo](https://github.com/Valamca/Foro_Alura_API_REST/assets/129345721/495dc591-ec52-41d3-a199-2c033cd9d7e6)
-
 </p>
 <p align = "center">
 <img src="https://img.shields.io/badge/_Lenguaje-190202?style=flat"/><img src="https://img.shields.io/badge/_Java-F20000?style=flat"/>
